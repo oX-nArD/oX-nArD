@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oX-nArD
 - 👀 I’m interested in learning to code  
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning python
 - 📫 How to reach me oxnard@tutanota.com
 - 
 <!---
